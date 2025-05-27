@@ -1,0 +1,34 @@
+
+body {
+  margin: 0;
+  font-family: 'Georgia', serif;
+  background-color: #fdfcf8;
+  color: #333;
+}
+header {
+  text-align: center;
+  padding: 1rem;
+  background-color: #fef3e1;
+  border-bottom: 2px solid #e0d4c0;
+}
+h1 {
+  margin: 0;
+  font-size: 2.5rem;
+  color: #5e4630;
+}
+.tagline {
+  margin: 0.5rem 0 0;
+  font-style: italic;
+  color: #7a6854;
+}
+#map {
+  width: 100%;
+  height: 80vh;
+}
+footer {
+  text-align: center;
+  font-size: 0.8rem;
+  padding: 0.5rem;
+  background: #f4f1ec;
+  border-top: 1px solid #ddd;
+}
